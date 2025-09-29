@@ -13,11 +13,11 @@ const projectsData = [
   },
   {
     title: "Real Time Chat Application",
-    image: "/projects/ecommerce.png",
-    description: "ChatConnect is a real-time messaging app that enables instant communication with live message updates. Built with React, Node.js, Socket.io, and Tailwind CSS, it delivers a fast, seamless, and interactive chat experience.",
-    techStack: ["TailwindCss","React.js","ExpressJS", "MongoDB", "NodeJS"],
-    github: "https://github.com/username/ecommerce",
-    liveDemo: "https://myecommerceapp.com",
+    image: "/projects/B.png",
+    description: "TalkitOut is a real-time messaging app that enables instant communication with live message updates. Built with React, Node.js, Socket.io, and Tailwind CSS, it delivers a fast, seamless, and interactive chat experience.",
+    techStack: ["TailwindCss","React.js","ExpressJS", "MongoDB", "NodeJS","Socket.io"],
+    github: "https://github.com/abhishekrwt2/Talkitout-Real-time-chat-Application",
+    liveDemo: "https://talkitout-real-time-chat-application.onrender.com",
   },
   
 ];
