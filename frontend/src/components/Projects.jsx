@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
-// Example project data
+
 const projectsData = [
   {
     title: "HirePrep",
@@ -19,7 +19,7 @@ const projectsData = [
     github: "https://github.com/username/ecommerce",
     liveDemo: "https://myecommerceapp.com",
   },
-  // Add more projects here
+  
 ];
 
 const Projects = () => {

@@ -7,7 +7,7 @@ const Home = () => {
       id="home"
       className="px-8 pt-24 md:pt-20 flex flex-col justify-center min-h-screen space-y-4"
     >
-      {/* Small Intro */}
+      
       <motion.p
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -17,7 +17,7 @@ const Home = () => {
         hey, i am
       </motion.p>
 
-      {/* Big Name */}
+      
       <motion.h1
         initial={{ opacity: 0, y: -30 }}
         animate={{ opacity: 1, y: 0 }}
@@ -27,7 +27,7 @@ const Home = () => {
         ABHISHEK <span className="text-cyan-400">RAWAT</span>
       </motion.h1>
 
-      {/* Description */}
+      
       <motion.p
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -37,7 +37,7 @@ const Home = () => {
         I’m Abhishek Rawat, a B.Tech CSE graduate and aspiring Software Engineer who turns ideas into fast, scalable web applications using modern fullstack tools.
       </motion.p>
 
-      {/* Social & CV */}
+    
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}

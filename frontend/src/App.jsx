@@ -9,7 +9,7 @@ import Contact from './components/Contact';
 const App = () => {
 
   useEffect(() => {
-    // Delay ensures React finished rendering
+    
     setTimeout(() => window.scrollTo(0, 0), 0);
   }, []);
 
