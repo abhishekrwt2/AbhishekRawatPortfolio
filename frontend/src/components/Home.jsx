@@ -49,7 +49,7 @@ const Home = () => {
           <a href="https://github.com/abhishekrwt2" className="text-gray-300 hover:text-cyan-400 transition" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
           <a href="mailto:abhirwt008@gmail.com" className="text-gray-300 hover:text-cyan-400 transition"><FaEnvelope /></a>
         </div>
-        <a href="/AbhishekRawatResume.pdf" download className="px-6 py-3 rounded-full font-semibold text-black bg-cyan-400 hover:bg-cyan-500 transition-colors duration-300 ease-in-out">
+        <a href="/AbhishekRawat's Resume.pdf" download className="px-6 py-3 rounded-full font-semibold text-black bg-cyan-400 hover:bg-cyan-500 transition-colors duration-300 ease-in-out">
           Download CV
         </a>
       </motion.div>

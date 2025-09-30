@@ -21,7 +21,7 @@ const Navbar = () => {
           >
             {link.toLowerCase() === "resume" ? (
               <a
-                href="/AbhishekRawatResume.pdf"
+                href="/AbhishekRawat's Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 py-2 rounded-full border-2 border-white text-white
